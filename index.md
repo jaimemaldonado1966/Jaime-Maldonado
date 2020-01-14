@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-
+to my web instructors
+Ilike take this class because I like learn how I can a website for my own busssines,
 You can use the [editor on GitHub](https://github.com/jaimemaldonado1966/Jaime-Maldonado/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi5ueSbk4LnAhXEtp4KHSB5BWIQjRx6BAgBEAQ&url=https%3A%2F%2Ftwitter.com%2Flinuxbo&psig=AOvVaw39sBL--DefPH9zwrdeKMSP&ust=1579058974399018)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
